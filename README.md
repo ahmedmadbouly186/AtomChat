@@ -1,4 +1,4 @@
-# Chat System: Design and Implementation
+# AtomChat System— Atomic, Searchable Chat System
 
 ## Quick Start
 
