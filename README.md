@@ -1,5 +1,7 @@
 # Chat System: Design and Implementation
 
+![plot](./images/Thumbnail-preview.png)
+
 ## Quick Start
 
 To run the entire stack, simply use:
